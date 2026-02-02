@@ -1,0 +1,6 @@
+D:\github_documents\smart-home-controller-assignment3\SmartHomeController\SmartHomeLib\bin\Debug\SmartHomeLib.dll
+D:\github_documents\smart-home-controller-assignment3\SmartHomeController\SmartHomeLib\bin\Debug\SmartHomeLib.pdb
+D:\github_documents\smart-home-controller-assignment3\SmartHomeController\SmartHomeLib\obj\Debug\SmartHomeLib.csproj.AssemblyReference.cache
+D:\github_documents\smart-home-controller-assignment3\SmartHomeController\SmartHomeLib\obj\Debug\SmartHomeLib.csproj.CoreCompileInputs.cache
+D:\github_documents\smart-home-controller-assignment3\SmartHomeController\SmartHomeLib\obj\Debug\SmartHomeLib.dll
+D:\github_documents\smart-home-controller-assignment3\SmartHomeController\SmartHomeLib\obj\Debug\SmartHomeLib.pdb
