@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartHomeConsole1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81d6a37d99989dc2dcdf4095538670b56bbb217b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63665cbaf1ab23f522244c91b8cafd9132809414")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartHomeConsole1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartHomeConsole1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

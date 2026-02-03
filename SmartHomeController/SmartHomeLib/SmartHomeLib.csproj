@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecurityCamera.cs" />
     <Compile Include="SmartDevice.cs" />
+    <Compile Include="SmartLight.cs" />
+    <Compile Include="SmartThermostat.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

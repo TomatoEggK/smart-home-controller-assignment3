@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C9D0B61-715B-4616-A0AC-9933F863278C}|SmartHomeLib\\SmartHomeLib.csproj|d:\\github_documents\\smart-home-controller-assignment3\\smarthomecontroller\\smarthomelib\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9D0B61-715B-4616-A0AC-9933F863278C}|SmartHomeLib\\SmartHomeLib.csproj|solutionrelative:smarthomelib\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9D0B61-715B-4616-A0AC-9933F863278C}|SmartHomeLib\\SmartHomeLib.csproj|d:\\github_documents\\smart-home-controller-assignment3\\smarthomecontroller\\smarthomelib\\smartthermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9D0B61-715B-4616-A0AC-9933F863278C}|SmartHomeLib\\SmartHomeLib.csproj|solutionrelative:smarthomelib\\smartthermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9D0B61-715B-4616-A0AC-9933F863278C}|SmartHomeLib\\SmartHomeLib.csproj|d:\\github_documents\\smart-home-controller-assignment3\\smarthomecontroller\\smarthomelib\\securitycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9D0B61-715B-4616-A0AC-9933F863278C}|SmartHomeLib\\SmartHomeLib.csproj|solutionrelative:smarthomelib\\securitycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C9D0B61-715B-4616-A0AC-9933F863278C}|SmartHomeLib\\SmartHomeLib.csproj|d:\\github_documents\\smart-home-controller-assignment3\\smarthomecontroller\\smarthomelib\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C9D0B61-715B-4616-A0AC-9933F863278C}|SmartHomeLib\\SmartHomeLib.csproj|solutionrelative:smarthomelib\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC014D-E4FE-446A-BD37-1C4A2407A44E}|SmartHomeConsole1\\SmartHomeConsole1.csproj|d:\\github_documents\\smart-home-controller-assignment3\\smarthomecontroller\\smarthomeconsole1\\smarthomeconsole1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FCAC014D-E4FE-446A-BD37-1C4A2407A44E}|SmartHomeConsole1\\SmartHomeConsole1.csproj|solutionrelative:smarthomeconsole1\\smarthomeconsole1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{928CED32-BABF-A0CD-70A6-A60F91C18E4A}|SmartHomeConsole1\\SmartHomeConsole1.csproj|d:\\github_documents\\smart-home-controller-assignment3\\smarthomecontroller\\smarthomeconsole1\\smarthomeconsole1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{928CED32-BABF-A0CD-70A6-A60F91C18E4A}|SmartHomeConsole1\\SmartHomeConsole1.csproj|solutionrelative:smarthomeconsole1\\smarthomeconsole1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC014D-E4FE-446A-BD37-1C4A2407A44E}|SmartHomeConsole1\\SmartHomeConsole1.csproj|d:\\github_documents\\smart-home-controller-assignment3\\smarthomecontroller\\smarthomeconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCAC014D-E4FE-446A-BD37-1C4A2407A44E}|SmartHomeConsole1\\SmartHomeConsole1.csproj|solutionrelative:smarthomeconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{928CED32-BABF-A0CD-70A6-A60F91C18E4A}|SmartHomeConsole1\\SmartHomeConsole1.csproj|d:\\github_documents\\smart-home-controller-assignment3\\smarthomecontroller\\smarthomeconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928CED32-BABF-A0CD-70A6-A60F91C18E4A}|SmartHomeConsole1\\SmartHomeConsole1.csproj|solutionrelative:smarthomeconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurityCamera.cs",
+              "DocumentMoniker": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeLib\\SecurityCamera.cs",
+              "RelativeDocumentMoniker": "SmartHomeLib\\SecurityCamera.cs",
+              "ToolTip": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeLib\\SecurityCamera.cs",
+              "RelativeToolTip": "SmartHomeLib\\SecurityCamera.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:31:21.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartThermostat.cs",
+              "DocumentMoniker": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeLib\\SmartThermostat.cs",
+              "RelativeDocumentMoniker": "SmartHomeLib\\SmartThermostat.cs",
+              "ToolTip": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeLib\\SmartThermostat.cs",
+              "RelativeToolTip": "SmartHomeLib\\SmartThermostat.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:08:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SmartLight.cs",
+              "DocumentMoniker": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeLib\\SmartLight.cs",
+              "RelativeDocumentMoniker": "SmartHomeLib\\SmartLight.cs",
+              "ToolTip": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeLib\\SmartLight.cs",
+              "RelativeToolTip": "SmartHomeLib\\SmartLight.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wCMAAACuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:46:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SmartDevice.cs",
               "DocumentMoniker": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeLib\\SmartDevice.cs",
               "RelativeDocumentMoniker": "SmartHomeLib\\SmartDevice.cs",
@@ -39,20 +90,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SmartHomeConsole1",
+              "DocumentIndex": 4,
+              "Title": "SmartHomeConsole1.csproj",
               "DocumentMoniker": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeConsole1\\SmartHomeConsole1.csproj",
               "RelativeDocumentMoniker": "SmartHomeConsole1\\SmartHomeConsole1.csproj",
               "ToolTip": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeConsole1\\SmartHomeConsole1.csproj",
               "RelativeToolTip": "SmartHomeConsole1\\SmartHomeConsole1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-02T22:40:41.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T22:40:41.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\github_documents\\smart-home-controller-assignment3\\SmartHomeController\\SmartHomeConsole1\\Program.cs",
               "RelativeDocumentMoniker": "SmartHomeConsole1\\Program.cs",
@@ -60,8 +110,7 @@
               "RelativeToolTip": "SmartHomeConsole1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T22:40:25.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T22:40:25.514Z"
             }
           ]
         }
